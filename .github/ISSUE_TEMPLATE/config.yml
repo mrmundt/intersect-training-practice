@@ -1,5 +1,6 @@
 blank_issues_enabled: false
+
 contact_links:
   - name: Ask Google
-    url: www.google.com
-    about: Google is always right
+    url: https://www.google.com
+    about: Google knows everything
