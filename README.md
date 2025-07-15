@@ -9,6 +9,9 @@ The dates so far have been:
 | Bootcamp 2024 | July 15-19, 2024 | Lewis Library, Princeton, NJ |
 | Bootcamp 2025 | July 14-18, 2025 | Jadwin Hall, Room 407, Princeton, NJ |
 
+Cats are great. They are soft and fluffy.
+
+They like food and cuddles and sometimes they are absolutely insane (like my cat Zuko).
 
 ## Funding
 
