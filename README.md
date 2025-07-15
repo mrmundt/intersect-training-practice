@@ -11,6 +11,8 @@ The dates so far have been:
 
 Cats are great. They are soft and fluffy.
 
+They like food and cuddles and sometimes they are absolutely insane (like my cat Zuko).
+
 ## Funding
 
 The INTERSECT project is supported by NSF awards [2017424](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2017424)
