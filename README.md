@@ -10,6 +10,8 @@ The dates so far have been:
 | Bootcamp 2025 | July 14-18, 2025 | Jadwin Hall, Princeton, NJ |
 | Bootcamp 2026 | July 13-17, 2026 | Lewis Library, Princeton, NJ |
 
+The class so far has been lovely.
+
 
 ## Funding
 
